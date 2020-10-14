@@ -11,6 +11,7 @@ conda install -n first_eda jupyterlab
 conda install -n first_eda ipython
 conda install -n first_eda sklearn
 conda install -n first_eda seaborn
+conda install -c conda-forge folium -n first_eda
 
 ```
 
