@@ -10,6 +10,10 @@ Task description at: https://docs.google.com/document/d/1tQBNzrWkyoxdI6ijDS613U1
 
 The notebook contains an attempt to predict house sales prices based on a number of features. Ridge regression is used.
 
+## training_ole_ridge.py
+
+The python code for the prediction model, in a script.
+
 ### Packages used:
 
 ```
